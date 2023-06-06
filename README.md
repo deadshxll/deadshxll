@@ -1,4 +1,4 @@
-<p align="center">Centered text</p>
+<p align="center">#DEADSHELL'S PROFILE</p>
 
 <!--
 **deadshxll/deadshxll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
