@@ -1,4 +1,4 @@
-<h1 align="center">test</h1>
+<h1>Deadshell's profile</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadshxll&hide=contribs,prs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
