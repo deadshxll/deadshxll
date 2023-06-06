@@ -1,3 +1,3 @@
 <h1>Deadshell's profile</h1>
 
-![YouTube Badge](https://img.shields.io/static/v1?label=Youtube&message=deadshell&color=FF0000&url=https://www.youtube.com/channel/UCAiUyUbRQgxXACG4xRMoNZg)
+![Discord Badge](https://img.shields.io/twitter/url?label=Discord&logo=Discord&logoColor=738ADB&style=flat-square&url=https%3A%2F%2Fdiscord.com%2Fusers%2F524931419915550720)
