@@ -1,3 +1,4 @@
 <h1>Deadshell's profile</h1>
 
-[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=50cc1f&labelColor=50cc1f)](https://discord.gg/byehC9sBRE)
+[![YouTube Badge](https://img.shields.io/badge/-@Dhruv%20Jain-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCAiUyUbRQgxXACG4xRMoNZg)]
+[![Gmail Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tubeycat@gmail.com)](mailto:tubeycat@gmail.com)
