@@ -1,6 +1,4 @@
-<p align="center" background-color:"black">
-<h1>test</h1>
-</p>
+<h1 align="center">test</h1>
 
 <!--
 **deadshxll/deadshxll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
