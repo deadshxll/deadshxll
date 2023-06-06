@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" background-color:"black">
 ## DEADSHELL'S PROFILE
 </p>
 
