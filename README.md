@@ -1,4 +1,7 @@
 <h1 align="center">test</h1>
+<p align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api username=deadshxll &theme=radical)  
+</p>
 
 <!--
 **deadshxll/deadshxll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
