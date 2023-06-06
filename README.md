@@ -1,6 +1,6 @@
 <h1 align="center">test</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadshxll)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadshxll&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **deadshxll/deadshxll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
